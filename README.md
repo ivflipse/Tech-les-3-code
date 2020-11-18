@@ -1,3 +1,3 @@
 # H1
 ## H2
-[Google] (google.com)
+[Google](https://www.google.com/)
